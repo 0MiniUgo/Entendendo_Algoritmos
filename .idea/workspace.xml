@@ -58,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676481382381</updated>
       <workItem from="1676481383097" duration="1350000" />
+      <workItem from="1676556467846" duration="1011000" />
     </task>
     <servers />
   </component>
@@ -74,20 +75,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/Cap02_selection_sort/SelectionSort2.java</url>
-          <line>13</line>
-          <properties class="main.Cap02_selection_sort.SelectionSort2" method="selectionSort">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
